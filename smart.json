@@ -1,9 +1,9 @@
 {
   "name": "bootstrap-cosmo",
   "description": "bootstrap 3.0.2 with cosmo theme from bootswatch",
-  "homepage": "https://github.com/mangasocial/meteor-bootstrap-cosmo",
+  "homepage": "https://github.com/and-fri/meteor-bootstrap-cosmo",
   "author": "Andrej Fritz (http://a-fritz.com)",
   "version": "0.0.1",
-  "git": "https://github.com/mangasocial/meteor-bootstrap-cosmo.git",
+  "git": "https://github.com/and-fri/meteor-bootstrap-cosmo.git",
   "packages": { }
 }
