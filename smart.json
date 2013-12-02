@@ -3,7 +3,7 @@
   "description": "bootstrap 3.0.2 with cosmo theme from bootswatch",
   "homepage": "https://github.com/and-fri/meteor-bootstrap-cosmo",
   "author": "Andrej Fritz (http://a-fritz.com)",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "git": "https://github.com/and-fri/meteor-bootstrap-cosmo.git",
   "packages": { }
 }
