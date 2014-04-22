@@ -4,7 +4,7 @@
   "homepage": "https://github.com/grokbot/meteor-bootstrap-flatly",
   "author": "David Ramsey (http://grokbot.net)",
   "version": "0.0.1",
-  "git": "https://github.com/grokbot/meteor-bootstrap-flatly.git",
+  "git": "https://github.com/grokbot/meteor-bootstrap-flatly/tree/font-awesome",
   "packages": { 
 	"font-awesome": "4.0.3"
 	}
