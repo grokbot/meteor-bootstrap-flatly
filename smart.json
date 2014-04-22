@@ -3,7 +3,7 @@
   "description": "bootstrap 3.1.1 with flatly theme from bootswatch",
   "homepage": "https://github.com/grokbot/meteor-bootstrap-flatly",
   "author": "David Ramsey (http://grokbot.net)",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "git": "https://github.com/grokbot/meteor-bootstrap-flatly.git",
   "packages": { }
 }
