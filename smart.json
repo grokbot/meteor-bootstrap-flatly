@@ -1,9 +1,11 @@
 {
-  "name": "bootstrap-flatly",
-  "description": "bootstrap 3.1.1 with flatly theme from bootswatch",
+  "name": "bootstrap-flatly with font-awesome",
+  "description": "bootstrap 3.1.1 with flatly theme from bootswatch with font-awesome instead of glyphicons",
   "homepage": "https://github.com/grokbot/meteor-bootstrap-flatly",
   "author": "David Ramsey (http://grokbot.net)",
-  "version": "0.0.3",
+  "version": "0.0.1",
   "git": "https://github.com/grokbot/meteor-bootstrap-flatly.git",
-  "packages": { }
+  "packages": { 
+	"font-awesome": "4.0.3"
+	}
 }
