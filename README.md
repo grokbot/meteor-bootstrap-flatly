@@ -7,6 +7,6 @@ bootstrap 3 with flatly theme -  packaged for meteor - with font awesome instead
 
 ### modify smart.json to use font-awesome branch
 	  "bootstrap-flatly": {
-        "git" : "https://github.com/grokbot/meteor-bootstrap-flatly/tree/font-awesome",
+        "git" : "https://github.com/grokbot/meteor-bootstrap-flatly",
         "branch" : "font-awesome"
     }
