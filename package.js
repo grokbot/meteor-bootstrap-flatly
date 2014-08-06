@@ -1,5 +1,5 @@
 Package.describe({
-  summary: "Provides bootstrap 3.1.1 with flatly theme."
+  summary: "Provides bootstrap 3.2.0 with flatly theme."
 });
 
 Package.on_use(function (api) {
