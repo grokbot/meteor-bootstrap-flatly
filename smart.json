@@ -3,9 +3,9 @@
   "description": "bootstrap 3.2.0 with flatly theme from bootswatch with font-awesome instead of glyphicons",
   "homepage": "https://github.com/grokbot/meteor-bootstrap-flatly",
   "author": "David Ramsey (http://grokbot.net)",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "git": "https://github.com/grokbot/meteor-bootstrap-flatly/tree/font-awesome",
   "packages": { 
-	"font-awesome": "4.1.0"
+	"fontawesome4": "1.1.0"
 	}
 }
